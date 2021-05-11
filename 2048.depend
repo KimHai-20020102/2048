@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1620746240 source:c:\users\admin\documents\testsdl\2048\main.cpp
+	<bits/stdc++.h>
+	<ctime>
+	<SDL_ttf.h>
+	"engine.h"
+	"game.h"
+	"action.h"
+
+1620751113 c:\users\admin\documents\testsdl\2048\engine.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"public.h"
+
+1620744173 c:\users\admin\documents\testsdl\2048\game.h
+	<string>
+	<SDL.h>
+	"SDL_Utils.h"
+	"public.h"
+
+1620744719 c:\users\admin\documents\testsdl\2048\sdl_utils.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1620165971 c:\users\admin\documents\testsdl\2048\public.h
+
+1620746366 c:\users\admin\documents\testsdl\2048\action.h
+	"engine.h"
+
